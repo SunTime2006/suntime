@@ -1,6 +1,3 @@
-# Suntime
-Sobre mi
-
 <h1 align="center">Hola soy SunTime</h1>
 <h3 align="center">Desarrollador de sitios web, bots y videojuegos, aprendiendo Python, Godot, JavaScript, CSS, HTML y próximamente Machine Learning. Adoro la tecnología y aprender muchas cosas relacionadas a eso. Soy también gamer, artista y archivista de la televisión</h3>
 
